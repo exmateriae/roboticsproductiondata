@@ -6,10 +6,10 @@ year,units,cumulative,source
 1994,56500,321500,
 1995,69000,390500,
 1996,80529,471029,
-1997,85000,556029,
+1997,85000,556029,MISSING BETWEEN 1997 AND 2007
 1998,80000,636029,
 1999,79000,715029,
-2000,99000,814029,https://ifr.org/img/worldrobotics/Executive_Summary_WR_2020_Industrial_Robots_1.pdf
+2000,99000,814029,
 2001,78000,892029,
 2002,81000,973029,
 2003,86000,1059029,
@@ -17,9 +17,9 @@ year,units,cumulative,source
 2005,115000,1271029,
 2006,112000,1383029,
 2007,115000,1498029,
-2008,113000,1611029,
+2008,113000,1611029,https://ifr.org/downloads/press2018/Executive%20Summary%20WR%202019%20Industrial%20Robots.pdf
 2009,60000,1671029,
-2010,121000,1792029,https://ifr.org/downloads/press2018/Executive%20Summary%20WR%202019%20Industrial%20Robots.pdf
+2010,121000,1792029,
 2011,166000,1958029,
 2012,159000,2117029,
 2013,178000,2295029,
@@ -34,7 +34,7 @@ year,units,cumulative,source
 2022,553000,5703029,
 2023,541302,6244331,https://ifr.org/downloads/press2018/2024-SEP-24_IFR_press_release_World_Robotics_2024_-_global_market.pdf
 2024,542000,6786331,
-2025,570000,7356331,
+2025,570000,7356331,https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factories-doubles-over-10-years (estimation)
 2026,610000,7966331,
 2027,650000,8616331,
 2028,700000,9316331,

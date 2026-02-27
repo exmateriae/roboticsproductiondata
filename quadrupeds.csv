@@ -1,12 +1,7 @@
 year,units,cumulative,source
-2015,50,50,
-2016,80,130,
-2017,150,280,
-2018,300,580,
-2019,800,1380,
-2020,1500,2880, https://bostondynamics.com/news/boston-dynamics-launches-commercial-sales-of-spot-robot/#:~:text=Under%20that%20program%2C%20over%20150environments%2C%20and%20provide%20situational%20awareness.
-2021,3500,6380, June 2021: Unitree releases its first quadruped <1k shipments by Apr 22 https://pandaily.com/matrix-partners-invests-in-rd-startup-unitree-robotics
-2022,7000,13380, https://www.linkedin.com/posts/boston-dynamics_nearly-2000-spot-robots-have-been-deployed-activity-7213972451028779008-Euk0/
-2023,15000,28380, https://www.marketgrowthreports.com/market-reports/quadruped-robot-market-103749#:~:text=The%20global%20count%20of%20manufacturersare%20increasingly%20employed%20in%20logistics (7200 units for Unitree alone)
-2024,35000,63380, https://asiatimes.com/2025/03/unitrees-humanoid-robot-a-great-side-flip-forward-for-china/#:~:text=He%20says%20this%20was%20whyDynamics%20sold%20only%202%2C000%20units
-2025,78000,141380, https://cnmra.com/chinas-quadruped-robot-shipments-reached-approximately-65000-units-in-2025-accounting-for-about-80-of-the-global-market/
+2020,1500,1500, https://bostondynamics.com/news/boston-dynamics-launches-commercial-sales-of-spot-robot/#:~:text=Under%20that%20program%2C%20over%20150environments%2C%20and%20provide%20situational%20awareness.
+2021,3500,5000, June 2021: Unitree releases its first quadruped <1k shipments by Apr 22 https://pandaily.com/matrix-partners-invests-in-rd-startup-unitree-robotics
+2022,7000,12000, https://www.linkedin.com/posts/boston-dynamics_nearly-2000-spot-robots-have-been-deployed-activity-7213972451028779008-Euk0/
+2023,15000,27000, https://www.marketgrowthreports.com/market-reports/quadruped-robot-market-103749#:~:text=The%20global%20count%20of%20manufacturersare%20increasingly%20employed%20in%20logistics (7200 units for Unitree alone)
+2024,35000,62000, https://asiatimes.com/2025/03/unitrees-humanoid-robot-a-great-side-flip-forward-for-china/#:~:text=He%20says%20this%20was%20whyDynamics%20sold%20only%202%2C000%20units
+2025,78000,140000, https://cnmra.com/chinas-quadruped-robot-shipments-reached-approximately-65000-units-in-2025-accounting-for-about-80-of-the-global-market/

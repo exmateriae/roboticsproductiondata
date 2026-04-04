@@ -4,7 +4,7 @@ A comprehensive dataset collection documenting global robotics and related techn
 
 ## Overview
 
-This repository contains curated datasets tracking production volumes, shipment statistics, and market trends for various robotics and technology categories. The data spans from the mid-1970s to present day, providing valuable historical context for understanding technological adoption and market evolution.
+This repository contains curated datasets tracking production volumes, shipment statistics, and market trends for various robotics and technology categories. The data spans from the mid-1980s to present day, providing valuable historical context for understanding technological adoption and market evolution.
 
 ## Dataset Categories
 
@@ -15,10 +15,6 @@ This repository contains curated datasets tracking production volumes, shipment 
 - **Quadrupeds** - Four-legged robotic platforms
 - **Robotic Arms** - Industrial and collaborative robotic arms
 - **Wheeled Robots** - Mobile wheeled robotic systems
-
-### Technology Markets
-- **PC Shipments** - Personal computer annual shipments and market analysis (1975-2025)
-- **Smartphone Shipments** - Global smartphone production volumes (2005-2025)
 
 ## Data Format
 

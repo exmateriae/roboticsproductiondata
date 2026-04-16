@@ -1,0 +1,7 @@
+Year,Units,Cumulative,Source
+2020,30,30,
+2021,80,110,"Agility says it has sold ""substantially more"" than the previous dozen units. https://techcrunch.com/2021/09/01/agility-robotics-digit-gets-a-warehouse-gig In 2025, high-end estimation were at 500 humanoids."
+2022,200,310,"This is likely a high end estimation, same reasoning as the 2023 data. Production was so early that there is very little publicly available data on how many were built. There were few companies at the time that had any scale in their humanoids production."
+2023,500,810,"This is a high end estimation in order to avoid exaggerating the 36 month growth rate. Unitree only started selling humanoids in November 2023 and sold 1400 units in 2024: https://eu.36kr.com/en/p/3430759167593858 Over 2023 and 2024, Agibot sold a total of 1000 units: https://www.agibot.com/about_Zhiyuan  Both companies were almost 60% of the global production in 2025 while very few competitors were even in the hundreds of units so it seems extremely unlikely these were making hundreds of them three years ago. https://www.forbes.com/sites/johnkoetsier/2026/03/30/agibot-shipped-a-staggering-5000-humanoid-robots-in-the-last-3-months/"
+2024,2500,3310,Total shipments in 2024 were over 2150 (1/7th of 15k in 2025) https://autonews.gasgoo.com/articles/news/from-prototypes-to-production-dexterous-hands-kick-off-a-mass-production-race-2016425582734970881
+2025,16000,19310,16k in 2025 https://counterpointresearch.com/en/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace
